@@ -6,6 +6,11 @@ Proxy101 is a Python library for finding and checking public proxies
 
 Download the proxy101 folder and then copied to your root project folder. 
 
+And then install the requirements using command
+```bash
+pip install - r requirements.txt
+```
+
 ## Usage
 ### Scrape the proxies. 
 ```
